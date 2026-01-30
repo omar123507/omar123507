@@ -1,4 +1,4 @@
-## Hey 👋 
+[## Hey 👋 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Omar Adel Abdul Hakam </h1>
 
 <p>Welcome to my page! </br> I'm a <b>Multi-Disciplinary Engineer</b> specializing in <b>AI/ML</b> and <b>Robotics (Embedded Systems)</b>. Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Egypt</b>. I build intelligent machines and turn raw data into strategic business stories.</p>
@@ -65,3 +65,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="Omar's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="Omar's Streak" />
 </p>
+](https://www.linkedin.com/in/omar-adel-260296321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
