@@ -1,149 +1,90 @@
 ## Hey 👋, I'm Omar Adel Abdul Hakam 
 ## I'm AI/ML Engineer 
 ## I'm Robotics Engineer 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<h3>Things I code with</h3>
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  <p>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Lumen-E74430?style=flat-square&logo=Lumen&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
-  </p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<p>
-  📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
-  <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/mrstandu33"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/stan-daniels-roth-278478127"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/mrstandu33"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
+  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
+    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
+  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
+  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
+  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
+</ul>
+<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
+<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 4°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:39</b> and sets at <b>17:20</b>.</p>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-<p>
-  🎶Now playing ...🎶<br/>
-  <a href="http://spotify-informer.daniels-roth-stan.fr/">
-    <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
-  </a><br/>
-  <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
-</p>
 
-<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
-<h3>⚡️ Partenaire de vos projets ⚡️</h3><br/>
-<p>
-  🧔 Moi c'est <bold>Stan</bold>. 25 ans, barbu et un amateur de code et de 🍺.<br/>
-  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Bordeaux</a>, en France.<br/>
-  💻 Développeur Web <bold>T-Shaped</bold><em>(<a href="https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one">?</a>)</em> <bold><a href="https://vuejs.org">Vue.js</a></bold> × <bold><a href="https://laravel.com">Laravel</a></bold>.<br/>
-  🎥 Je fais de temps en temps des lives sur <a href="https://twitch.tv/mrstandu33">Twitch</a>, vous pourrez me voir développer des projets Open Source. <br/>
-  🎓 Mentor sur la plateforme <a href="https://github.com/OpenClassrooms">@OpenClassrooms</a> depuis 6 ans
-</p>
-<p>
-  🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>, ou passez par mon <a href="https://daniels-roth-stan.fr">site</a> !
-</p><br/>
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<details>
-  <summary>Quelques statistiques ...</summary><br/>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C865%20hrs%2045%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-140-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 2.5 MB Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3485 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-🌆 Daytime                19897 commits       ████████████░░░░░░░░░░░░░   46.77 % 
-🌃 Evening                15233 commits       █████████░░░░░░░░░░░░░░░░   35.81 % 
-🌙 Night                  3923 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   6553 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Tuesday                  7167 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Wednesday                9160 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Thursday                 7263 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Friday                   5880 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Saturday                 3034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Sunday                   3481 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-TypeScript               5 hrs 27 mins       ████████████████████████░   94.53 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Vue.js                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 46 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-PHP                      10 repos            ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Vue                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-```
-
-
-
-
- Last Updated on 30/01/2026 00:11:34 UTC
-<!--END_SECTION:waka-->
-</details>
-
-
-<br>
-
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
