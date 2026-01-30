@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00cba9&height=250&section=header&text=Omar%20Adel%20🤖&fontSize=75&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Omar Adel Abdul Hakam </h1>
 <p>Welcome to my page! 🤖🤖🤖 </br> I'm a <b>Multi-Disciplinary Engineer</b> specializing in <b>AI/ML</b> and <b>Robotics (Embedded Systems)</b>. <br/> Proudly from <b>Egypt</b>.I'm a passionate <b>Problem Solver</b> and <b>Data Storyteller</b>, turning complex logic into impactful business stories.</p>
 
