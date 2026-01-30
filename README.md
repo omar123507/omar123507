@@ -5,11 +5,17 @@
 # ## Hey 👋 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Omar Adel Abdul Hakam </h1>
 
+<p align="left">
+  <a href="رابط_ملف_السيفي_هنا" target="_blank">
+    <img src="https://img.shields.io/badge/Download-My%20CV-00cba9?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
 <p>Welcome to my page! 🤖🤖🤖 </br> I'm a <b>Multi-Disciplinary Engineer</b> specializing in <b>AI/ML</b> and <b>Robotics (Embedded Systems)</b>. <br/> Proudly from <b>Egypt</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="20"/> . I build intelligent machines and turn raw data into strategic business stories.</p>
 
 ---
 
-### 📊 Skills Radar Chart 🦾
+### 📊 Skills Dashboard 🦾
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=donut&theme=radical&hide_border=true" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-GITHUB-USERNAME&theme=radical" width="50%" />
@@ -17,36 +23,30 @@
 
 ---
 
-### 🛣️ My Roadmap & Journey 🚀
-- 🔌 **Embedded Systems:** Arduino, C, C++.
-- 🧠 **Intelligence:** Python & Machine Learning.
-- 💾 **Data Engineering:** SQL.
-- 📊 **BI Solutions:** Tableau & Power BI.
-- 🌐 **Web:** HTML5 & CSS3.
-
----
-
 ### 🛠️ Tech Stack 🤖
 
-#### ⚙️ Hardware & Robotics
+#### ⚙️ Engineering & Robotics (ROS Ecosystem)
 <p>
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-ED6B0D?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
-#### 🧠 AI & Data Visualization
+#### 🧠 Computer Vision & Deep Learning
 <p>
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### 💾 Data Analysis & BI
+<p>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img alt="PowerBI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-</p>
-
-#### 🌐 Web Development
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
