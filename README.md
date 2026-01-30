@@ -11,7 +11,12 @@
   </a>
 </p>
 
-<p>Welcome to my page! 🤖🤖🤖 </br> I'm a <b>Multi-Disciplinary Engineer</b> specializing in <b>AI/ML</b> and <b>Robotics (Embedded Systems)</b>. <br/> Proudly from <b>Egypt</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="20"/> . I build intelligent machines and turn raw data into strategic business stories.</p>
+<p>Welcome to my page! 🤖🤖🤖 </br> I'm a <b>Multi-Disciplinary Engineer</b> specializing in <b>AI/ML</b> and <b>Robotics (Embedded Systems)</b>. <br/> Proudly from <b>Egypt</b> <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="20"/> . I'm a passionate <b>Problem Solver</b> and <b>Data Storyteller</b>, turning complex logic into impactful business stories.</p>
+
+---
+
+### 🏆 Hackathons & Achievements
+- 🥇 **Benha University Hackathon Participant:** Engineered innovative tech solutions under pressure, focusing on real-world problem solving and system integration.
 
 ---
 
@@ -33,20 +38,20 @@
   <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-ED6B0D?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
-#### 🧠 Computer Vision & Deep Learning
+#### 🧠 CV, AI & Problem Solving
 <p>
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Problem Solving" src="https://img.shields.io/badge/-Problem_Solving-lightgrey?style=for-the-badge&logo=leetcode&logoColor=black" />
 </p>
 
-#### 💾 Data Analysis & BI
+#### 📈 Data Storytelling & BI
 <p>
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img alt="PowerBI" src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
