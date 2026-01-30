@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h1>Hi there, I'm Omar Adel Abdul Hakam 🇪🇬</h1>
-  <p><b>AI & Robotics Engineer | Data Storyteller | Business Analyst</b></p>
+  <h1>Hi there, I'm Omar Adel Abdul Hakam</h1>
+  <p><b>AI & Robotics Engineer | Storyteller | Business Analyst</b></p>
   <p><i>Turning complex hardware logic and raw data into meaningful business stories.</i></p>
 </div>
 
