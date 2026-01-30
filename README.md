@@ -9,27 +9,20 @@
 
 ---
 
-### 🛣️ My Roadmap & Journey 🚀
-- 🔌 **Step 1:** Mastering Embedded Systems with **Arduino, C, and C++**.
-- 🧠 **Step 2:** Transitioning to Intelligent Systems with **Python & Machine Learning**.
-- 📊 **Step 3:** Managing Big Data with **SQL** and Visualizing insights with **Tableau & Power BI**.
-- 🌐 **Step 4:** Building user interfaces for control systems using **HTML & CSS**.
+### 📊 Skills Radar Chart 🦾
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=donut&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-GITHUB-USERNAME&theme=radical" width="50%" />
+</p>
 
 ---
 
-### 📊 Proficiency & Skills Level 🛠️
-
-**Programming & Hardware**
-- **C / C++ (Robotics Core)** ![85%](https://progress-bar.dev/85/?title=Mastery)
-- **Arduino & Embedded Systems** ![90%](https://progress-bar.dev/90/?title=Mastery)
-- **Python (AI & Data Science)** ![80%](https://progress-bar.dev/80/?title=Mastery)
-
-**Data Science & BI**
-- **SQL (Data Engineering)** ![75%](https://progress-bar.dev/75/?title=Mastery)
-- **Tableau / Power BI** ![80%](https://progress-bar.dev/80/?title=Mastery)
-
-**Web Foundations**
-- **HTML5 / CSS3** ![70%](https://progress-bar.dev/70/?title=Mastery)
+### 🛣️ My Roadmap & Journey 🚀
+- 🔌 **Embedded Systems:** Arduino, C, C++.
+- 🧠 **Intelligence:** Python & Machine Learning.
+- 💾 **Data Engineering:** SQL.
+- 📊 **BI Solutions:** Tableau & Power BI.
+- 🌐 **Web:** HTML5 & CSS3.
 
 ---
 
@@ -42,7 +35,7 @@
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
-#### 🧠 AI & Data Analysis
+#### 🧠 AI & Data Visualization
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -63,10 +56,9 @@
 <a href="https://www.linkedin.com/in/omar-adel-260296321" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:Oadel01553@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/201553664271" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="tel:+201553664271" target="_blank"><img alt="Phone" src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white" /></a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&border_radius=10" alt="Omar's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&border_radius=10" />
 </p>
