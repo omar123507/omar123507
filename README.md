@@ -1,76 +1,63 @@
-<h1 align="center">🤖 Hi 👋, I'm Omar Adel</h1>
-<h3 align="center">🚀 Robotics Software Engineer | Machine Learning Engineer</h3>
+# 👋 Hi, I'm Omar Adel Abdul Hakam  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Robotics+Engineer;AI+Enthusiast;C%2B%2B+Developer;Future+Robotics+Expert&center=true&width=500&height=50">
+  <img src="portfolio-banner.png" alt="Omar Adel Portfolio Banner" width="100%">
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 AI Student passionate about building intelligent systems  
-- 🤖 Future **Robotics Software Engineer**  
-- 🔬 Interested in **Computer Vision & Autonomous Systems**  
-- ⚙️ Love working with **Hardware + Software Integration**  
-- 🚀 Goal: Build real-world robots that solve real problems  
+I am a **Multi-Disciplinary Engineer** specializing in **Machine Learning** and **Robotics Software Engineering (Embedded Systems)**.  
+I have a strong passion for building intelligent systems that bridge the gap between **software and hardware**.  
+
+I enjoy solving complex problems and transforming ideas into **real-world applications** that create measurable impact.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,c" />
-</p>
-
-### 🤖 Robotics & Embedded
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,linux" />
-</p>
-
-### 🧠 AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-### 👁️ Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv" />
-</p>
+## 🏆 Achievements
+- 🥇 **Benha University Hackathon Finalist**  
+  Designed and implemented innovative solutions with a focus on **system integration** and **real-world problem solving**.
 
 ---
 
 ## 🚀 Projects
-- 🤖 Smart Robot (Coming Soon...)
-- 🚗 Line Follower Robot  
-- 👁️ Computer Vision Detection System  
+- 🤖 **Autonomous Robot** *(in progress)*  
+- 🚗 **Line Follower Robot**  
+- 👁️ **Computer Vision Detection System**  
+
+---
+
+## 🛠️ Technical Skills
+
+### 🤖 Robotics & Embedded Systems
+- **C++**, **C**, **Python**  
+- **Arduino**, Embedded Programming  
+- Basic knowledge of **ROS** (Robot Operating System)
+
+### 🧠 AI / Machine Learning
+- **TensorFlow**, **OpenCV**  
+- Fundamentals of **Deep Learning** and **Computer Vision**
+
+### 📊 Data & Tools
+- **SQL**, **Power BI**, **Excel**  
+- **HTML**, **CSS**
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omaradel&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaradel&theme=radical" height="165"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+## 📫 Contact Me
+- 💼 LinkedIn: https://www.linkedin.com/in/omar-adel-260296321  
+- 📧 Email: Oadel01553@gmail.com  
+- 📱 WhatsApp: https://wa.me/201553664271  
 
 ---
 
-## ⚡ Fun Fact
-> I don’t just write code… I build intelligence 🤖🔥
+## ⚡ Personal Statement
+> I build systems, not just code — with a focus on intelligence, efficiency, and real-world impact.
