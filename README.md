@@ -1,63 +1,245 @@
-# 👋 Hi, I'm Omar Adel Abdul Hakam  
+<div align="center">
 
-<p align="center">
-  <img src="portfolio-banner.png" alt="Omar Adel Portfolio Banner" width="100%">
+# Hi 👋, I'm Omar Adel
+
+### 🤖 AI Student | Machine Learning Engineer | Robotics Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Deep+Learning+%26+Computer+Vision;Future+Robotics+Software+Engineer;Always+Learning+New+Technologies"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00C896&style=flat-square"/>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](YOUR_KAGGLE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](YOUR_GITHUB)
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 AI Student at **Menoufia University**
+
+🤖 Passionate about **Machine Learning, Robotics, Deep Learning and Autonomous Systems**
+
+💻 Building intelligent applications using
+
+- Python
+- C++
+- FastAPI
+- Streamlit
+- SQL Server
+- OpenCV
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+
+📊 I enjoy solving real-world problems with AI.
+
+🎯 Goal:
+Become a **Robotics Software Engineer** working on autonomous robots and intelligent systems.
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,sql"/>
+</p>
+
+## AI & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- OpenCV
+- Matplotlib
+- Seaborn
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
 </p>
 
 ---
 
-## 🧠 About Me
-I am a **Multi-Disciplinary Engineer** specializing in **Machine Learning** and **Robotics Software Engineering (Embedded Systems)**.  
-I have a strong passion for building intelligent systems that bridge the gap between **software and hardware**.  
+## Databases
 
-I enjoy solving complex problems and transforming ideas into **real-world applications** that create measurable impact.
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
----
-
-## 🏆 Achievements
-- 🥇 **Benha University Hackathon Finalist**  
-  Designed and implemented innovative solutions with a focus on **system integration** and **real-world problem solving**.
+- SQL Server
+- SQLite
 
 ---
 
-## 🚀 Projects
-- 🤖 **Autonomous Robot** *(in progress)*  
-- 🚗 **Line Follower Robot**  
-- 👁️ **Computer Vision Detection System**  
+## Tools
 
----
-
-## 🛠️ Technical Skills
-
-### 🤖 Robotics & Embedded Systems
-- **C++**, **C**, **Python**  
-- **Arduino**, Embedded Programming  
-- Basic knowledge of **ROS** (Robot Operating System)
-
-### 🧠 AI / Machine Learning
-- **TensorFlow**, **OpenCV**  
-- Fundamentals of **Deep Learning** and **Computer Vision**
-
-### 📊 Data & Tools
-- **SQL**, **Power BI**, **Excel**  
-- **HTML**, **CSS**
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omaradel&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omaradel&theme=radical" height="165"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
 </p>
 
 ---
 
-## 📫 Contact Me
-- 💼 LinkedIn: https://www.linkedin.com/in/omar-adel-260296321  
-- 📧 Email: Oadel01553@gmail.com  
-- 📱 WhatsApp: https://wa.me/201553664271  
+# 🤖 Robotics
+
+Currently learning
+
+- ROS2
+- SLAM
+- Navigation
+- Embedded Systems
+- Robot Kinematics
+- Autonomous Navigation
 
 ---
 
-## ⚡ Personal Statement
-> I build systems, not just code — with a focus on intelligence, efficiency, and real-world impact.
+# 🚀 Featured Projects
+
+## 🏥 Hospital Management System
+
+Desktop application with SQL Server database.
+
+Tech:
+
+- C#
+- SQL Server
+
+---
+
+## 💰 Medical Insurance Cost Prediction
+
+Machine Learning model deployed with Flask.
+
+Tech:
+
+- Python
+- Scikit-Learn
+- Flask
+
+---
+
+## 📊 Data Analysis Dashboards
+
+Interactive dashboards for business analytics.
+
+Tools
+
+- Excel
+- Power BI
+- Python
+- Streamlit
+
+---
+
+## 🧠 Machine Learning Projects
+
+- Classification
+- Regression
+- Clustering
+- Feature Engineering
+- Model Deployment
+
+---
+
+## 👁 Computer Vision
+
+Projects using OpenCV including image processing and object detection.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Deep Learning
+- Reinforcement Learning
+- ROS2
+- Robotics
+- MLOps
+- Docker
+- Kubernetes
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Robotics Projects
+
+✅ Master ROS2
+
+✅ Learn Reinforcement Learning
+
+✅ Contribute to Open Source
+
+✅ Land a Robotics Internship
+
+---
+
+# 🌍 Connect with Me
+
+<p>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_KAGGLE">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Building Intelligent Systems That Solve Real Problems."
+
+</div>
