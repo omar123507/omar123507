@@ -2,17 +2,30 @@
 
 # Hi 👋, I'm Omar Adel
 
-### 🤖 AI Student | Machine Learning Engineer | Robotics Enthusiast
+### 🤖 AI Student | Machine Learning Engineer | Future Robotics Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Deep+Learning+%26+Computer+Vision;Future+Robotics+Software+Engineer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C896&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Deep+Learning+%26+Computer+Vision;Future+Robotics+Software+Engineer;Building+Intelligent+Systems"/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00C896&style=flat-square"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00C896&style=flat-square"/>
-</p>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](YOUR_KAGGLE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](YOUR_GITHUB)
+<a href="YOUR_KAGGLE">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
@@ -20,56 +33,44 @@
 
 # 🚀 About Me
 
-🎓 AI Student at **Menoufia University**
+🎓 Artificial Intelligence undergraduate at **Menoufia University**.
 
-🤖 Passionate about **Machine Learning, Robotics, Deep Learning and Autonomous Systems**
+🤖 Passionate about **Machine Learning, Deep Learning, Computer Vision, and Robotics Software Engineering**.
 
-💻 Building intelligent applications using
+💡 I enjoy building intelligent systems that solve real-world problems through AI and automation.
 
-- Python
-- C++
-- FastAPI
-- Streamlit
-- SQL Server
-- OpenCV
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-
-📊 I enjoy solving real-world problems with AI.
-
-🎯 Goal:
-Become a **Robotics Software Engineer** working on autonomous robots and intelligent systems.
+🎯 My long-term goal is to become a **Robotics Software Engineer**, developing autonomous robots and intelligent robotic systems.
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## Languages
+## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,sql"/>
 </p>
 
-## AI & Data Science
+---
+
+## Artificial Intelligence & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-- Scikit-Learn
-- Pandas
-- NumPy
-- OpenCV
-- Matplotlib
-- Seaborn
+* Scikit-Learn
+* OpenCV
+* Pandas
+* NumPy
+* Matplotlib
 
 ---
 
-## Backend
+## Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
 </p>
 
 ---
@@ -80,12 +81,12 @@ Become a **Robotics Software Engineer** working on autonomous robots and intelli
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-- SQL Server
-- SQLite
+* SQL Server
+* SQLite
 
 ---
 
-## Tools
+## Tools & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
@@ -93,16 +94,18 @@ Become a **Robotics Software Engineer** working on autonomous robots and intelli
 
 ---
 
-# 🤖 Robotics
+# 🤖 Robotics Journey
 
-Currently learning
+Currently learning and building projects in:
 
-- ROS2
-- SLAM
-- Navigation
-- Embedded Systems
-- Robot Kinematics
-- Autonomous Navigation
+* ROS2
+* Robot Kinematics
+* SLAM
+* Navigation Stack
+* Autonomous Navigation
+* Embedded Systems
+* Sensor Fusion
+* Computer Vision for Robotics
 
 ---
 
@@ -110,63 +113,70 @@ Currently learning
 
 ## 🏥 Hospital Management System
 
-Desktop application with SQL Server database.
+A desktop hospital management system with SQL Server integration.
 
-Tech:
+**Tech Stack**
 
-- C#
-- SQL Server
+* C#
+* SQL Server
 
 ---
 
 ## 💰 Medical Insurance Cost Prediction
 
-Machine Learning model deployed with Flask.
+Machine Learning regression model deployed as a web application.
 
-Tech:
+**Tech Stack**
 
-- Python
-- Scikit-Learn
-- Flask
+* Python
+* Scikit-Learn
+* Flask
 
 ---
 
-## 📊 Data Analysis Dashboards
+## 📊 Business Intelligence Dashboards
 
-Interactive dashboards for business analytics.
+Interactive dashboards for business analytics and decision support.
 
-Tools
+**Tools**
 
-- Excel
-- Power BI
-- Python
-- Streamlit
+* Power BI
+* Excel
+* Python
+* Streamlit
 
 ---
 
 ## 🧠 Machine Learning Projects
 
-- Classification
-- Regression
-- Clustering
-- Feature Engineering
-- Model Deployment
+Collection of ML projects covering:
+
+* Regression
+* Classification
+* Clustering
+* Feature Engineering
+* Model Deployment
 
 ---
 
-## 👁 Computer Vision
+## 👁 Computer Vision Projects
 
-Projects using OpenCV including image processing and object detection.
+Projects using OpenCV including:
+
+* Image Processing
+* Face Detection
+* Object Detection
+* Image Classification
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -176,7 +186,17 @@ Projects using OpenCV including image processing and object detection.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
 </p>
 
@@ -186,7 +206,7 @@ Projects using OpenCV including image processing and object detection.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=7"/>
 
 </p>
 
@@ -194,27 +214,34 @@ Projects using OpenCV including image processing and object detection.
 
 # 📚 Currently Learning
 
-- Deep Learning
-- Reinforcement Learning
-- ROS2
-- Robotics
-- MLOps
-- Docker
-- Kubernetes
+* Deep Learning
+* Reinforcement Learning
+* ROS2
+* Robotics Algorithms
+* Computer Vision
+* Docker
+* Kubernetes
+* MLOps
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Build Robotics Projects
+* ✅ Build professional Robotics projects
+* ✅ Master ROS2
+* ✅ Learn Reinforcement Learning
+* ✅ Contribute to Open Source
+* ✅ Publish high-quality AI projects
+* ✅ Secure a Robotics Software Engineering Internship
 
-✅ Master ROS2
+---
 
-✅ Learn Reinforcement Learning
+# 🏅 Achievements
 
-✅ Contribute to Open Source
-
-✅ Land a Robotics Internship
+* 🚀 Built multiple AI & Machine Learning projects.
+* 📊 Developed interactive data analysis dashboards.
+* 💻 Passionate about building end-to-end AI applications.
+* 📚 Continuously learning modern AI technologies.
 
 ---
 
@@ -223,15 +250,19 @@ Projects using OpenCV including image processing and object detection.
 <p>
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_KAGGLE">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -240,6 +271,8 @@ Projects using OpenCV including image processing and object detection.
 
 <div align="center">
 
-### ⭐ "Building Intelligent Systems That Solve Real Problems."
+## ⭐ *"Building Intelligent Systems That Solve Real-World Problems."*
+
+*"The best way to predict the future is to invent it."* — Alan Kay
 
 </div>
